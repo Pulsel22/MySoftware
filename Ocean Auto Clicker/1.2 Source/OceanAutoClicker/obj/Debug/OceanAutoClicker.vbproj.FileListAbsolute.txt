@@ -1,0 +1,26 @@
+C:\Users\Darcy Johnson\Desktop\Aqua Apps - Projects by M692\OceanAutoClicker\OceanAutoClicker\OceanAutoClicker\bin\Debug\OceanAutoClicker.exe.config
+C:\Users\Darcy Johnson\Desktop\Aqua Apps - Projects by M692\OceanAutoClicker\OceanAutoClicker\OceanAutoClicker\bin\Debug\OceanAutoClicker.exe
+C:\Users\Darcy Johnson\Desktop\Aqua Apps - Projects by M692\OceanAutoClicker\OceanAutoClicker\OceanAutoClicker\bin\Debug\OceanAutoClicker.pdb
+C:\Users\Darcy Johnson\Desktop\Aqua Apps - Projects by M692\OceanAutoClicker\OceanAutoClicker\OceanAutoClicker\bin\Debug\OceanAutoClicker.xml
+C:\Users\Darcy Johnson\Desktop\Aqua Apps - Projects by M692\OceanAutoClicker\OceanAutoClicker\OceanAutoClicker\obj\Debug\OceanAutoClicker.vbprojAssemblyReference.cache
+C:\Users\Darcy Johnson\Desktop\Aqua Apps - Projects by M692\OceanAutoClicker\OceanAutoClicker\OceanAutoClicker\obj\Debug\OceanAutoClicker.Form1.resources
+C:\Users\Darcy Johnson\Desktop\Aqua Apps - Projects by M692\OceanAutoClicker\OceanAutoClicker\OceanAutoClicker\obj\Debug\OceanAutoClicker.Resources.resources
+C:\Users\Darcy Johnson\Desktop\Aqua Apps - Projects by M692\OceanAutoClicker\OceanAutoClicker\OceanAutoClicker\obj\Debug\OceanAutoClicker.vbproj.GenerateResource.cache
+C:\Users\Darcy Johnson\Desktop\Aqua Apps - Projects by M692\OceanAutoClicker\OceanAutoClicker\OceanAutoClicker\obj\Debug\OceanAutoClicker.vbproj.CoreCompileInputs.cache
+C:\Users\Darcy Johnson\Desktop\Aqua Apps - Projects by M692\OceanAutoClicker\OceanAutoClicker\OceanAutoClicker\obj\Debug\OceanAutoClicker.exe
+C:\Users\Darcy Johnson\Desktop\Aqua Apps - Projects by M692\OceanAutoClicker\OceanAutoClicker\OceanAutoClicker\obj\Debug\OceanAutoClicker.xml
+C:\Users\Darcy Johnson\Desktop\Aqua Apps - Projects by M692\OceanAutoClicker\OceanAutoClicker\OceanAutoClicker\obj\Debug\OceanAutoClicker.pdb
+C:\Users\Darcy Johnson\Desktop\Aqua Apps - Projects by M692\OceanAutoClicker\OceanAutoClicker\OceanAutoClicker\obj\Debug\OceanAutoClicker.Form2.resources
+C:\Users\Darcy Johnson\Desktop\Aqua Apps - Projects by M692\OceanAutoClicker\Release 1.2\OceanAutoClicker\OceanAutoClicker\bin\Debug\OceanAutoClicker.exe.config
+C:\Users\Darcy Johnson\Desktop\Aqua Apps - Projects by M692\OceanAutoClicker\Release 1.2\OceanAutoClicker\OceanAutoClicker\bin\Debug\OceanAutoClicker.exe
+C:\Users\Darcy Johnson\Desktop\Aqua Apps - Projects by M692\OceanAutoClicker\Release 1.2\OceanAutoClicker\OceanAutoClicker\bin\Debug\OceanAutoClicker.pdb
+C:\Users\Darcy Johnson\Desktop\Aqua Apps - Projects by M692\OceanAutoClicker\Release 1.2\OceanAutoClicker\OceanAutoClicker\bin\Debug\OceanAutoClicker.xml
+C:\Users\Darcy Johnson\Desktop\Aqua Apps - Projects by M692\OceanAutoClicker\Release 1.2\OceanAutoClicker\OceanAutoClicker\obj\Debug\OceanAutoClicker.vbprojAssemblyReference.cache
+C:\Users\Darcy Johnson\Desktop\Aqua Apps - Projects by M692\OceanAutoClicker\Release 1.2\OceanAutoClicker\OceanAutoClicker\obj\Debug\OceanAutoClicker.Form1.resources
+C:\Users\Darcy Johnson\Desktop\Aqua Apps - Projects by M692\OceanAutoClicker\Release 1.2\OceanAutoClicker\OceanAutoClicker\obj\Debug\OceanAutoClicker.Form2.resources
+C:\Users\Darcy Johnson\Desktop\Aqua Apps - Projects by M692\OceanAutoClicker\Release 1.2\OceanAutoClicker\OceanAutoClicker\obj\Debug\OceanAutoClicker.Resources.resources
+C:\Users\Darcy Johnson\Desktop\Aqua Apps - Projects by M692\OceanAutoClicker\Release 1.2\OceanAutoClicker\OceanAutoClicker\obj\Debug\OceanAutoClicker.vbproj.GenerateResource.cache
+C:\Users\Darcy Johnson\Desktop\Aqua Apps - Projects by M692\OceanAutoClicker\Release 1.2\OceanAutoClicker\OceanAutoClicker\obj\Debug\OceanAutoClicker.vbproj.CoreCompileInputs.cache
+C:\Users\Darcy Johnson\Desktop\Aqua Apps - Projects by M692\OceanAutoClicker\Release 1.2\OceanAutoClicker\OceanAutoClicker\obj\Debug\OceanAutoClicker.exe
+C:\Users\Darcy Johnson\Desktop\Aqua Apps - Projects by M692\OceanAutoClicker\Release 1.2\OceanAutoClicker\OceanAutoClicker\obj\Debug\OceanAutoClicker.xml
+C:\Users\Darcy Johnson\Desktop\Aqua Apps - Projects by M692\OceanAutoClicker\Release 1.2\OceanAutoClicker\OceanAutoClicker\obj\Debug\OceanAutoClicker.pdb
