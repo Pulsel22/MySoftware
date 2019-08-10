@@ -1,6 +1,6 @@
 # Install Instructions
 
-First <b>download all<b> the folders and files including the folde in this directory.
+First <b>download all</b> the folders and files including the folde in this directory.
 You should have downloaded the folder in this folder (Version 1.0)
 
 1. Open File Explorer
