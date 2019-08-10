@@ -5,4 +5,4 @@
 3. Put the "Game Server Creator" folder inside your C directory.
 
 <b>Make sure the directory listing looks like this: <b>
-C:\Game Server Creator\(in here are the files and a couple folders)
+C:\Game Server Creator\ (in here are the files and a couple folders)
